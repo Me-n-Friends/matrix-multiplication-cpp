@@ -1,3 +1,5 @@
+// NOTE: This code require Cpp standard set to C++20 in order to compile
+
 #include <iostream>
 #include <format>
 #define ROW 3
